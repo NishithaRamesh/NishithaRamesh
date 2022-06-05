@@ -1,5 +1,7 @@
 <h4> Hi there 👋 </h4>
 
+Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual & Scientific computing along with Executive MBA in Data Science and Business Analytics from McCombs University, Austin, Texas in collaboration with Great Lakes Institute of Management, India. I have an experience of around 2.5 years in SAP BW and Automation using Robotic Process Automation(RPA). I have experience of working with teams across the globe.
+
 - 🔭 I’m currently working on Machine Learning, Business Intelligence and Robotic Process Automation.
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 I’m looking for help eith information about open source RPA softwares. 
