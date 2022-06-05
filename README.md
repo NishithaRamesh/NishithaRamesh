@@ -1,6 +1,6 @@
 <h4> Hi there 👋 </h4>
 
-**<h4>About me :woman_technologist:</h4>**
+**<h2>About me :woman_technologist:</h2>**
 Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual & Scientific computing along with Executive MBA in Data Science and Business Analytics from McCombs University, Austin, Texas in collaboration with Great Lakes Institute of Management, India. I have an experience of around 2.5 years in SAP BW and Automation using Robotic Process Automation(RPA). I have experience of working with teams across the globe.
 
 - 🔭 I’m currently working on Machine Learning, Business Intelligence and Robotic Process Automation.
@@ -8,7 +8,7 @@ Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual
 - 🤔 I’m looking for help with information about open source RPA softwares. 
 - 😄 Pronouns: She/Her
 
-**<h4> Contact me :iphone:</h4>**
+**<h2> Contact me :iphone:</h2>**
     <p float="left">
       [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]("nishitharamesh.nr@gmail.com") 
       [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]("www.linkedin.com/in/nishitharamesh") 
@@ -18,7 +18,7 @@ Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual
     </p>
 
 
-**<h4>Technical Skills :computer:</h4>**
+**<h2>Technical Skills :computer:</h2>**
 
 <p float="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
