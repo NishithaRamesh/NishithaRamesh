@@ -7,7 +7,7 @@ Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 I’m looking for help with information about open source RPA softwares. 
 - 😄 Pronouns: She/Her
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]("www.linkedin.com/in/nishitharamesh") 
+
 **<h4> Contact me :iphone:</h4>**
     <p float="left">
       [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]("nishitharamesh.nr@gmail.com") 
