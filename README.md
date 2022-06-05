@@ -6,8 +6,8 @@
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: 
 
-**<h3>Technical Skills</h3>**
+**<h4>Technical Skills</h4>**
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  width="20" height="10"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NishithaRamesh&show_icons=true&theme=tokyonight)
