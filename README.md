@@ -8,6 +8,6 @@
 
 **<h4>Technical Skills</h4>**
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  width="50" height="60"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  width="70" height="60"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NishithaRamesh&show_icons=true&theme=tokyonight)
