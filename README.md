@@ -11,7 +11,7 @@ Masters Student at TU of Kaiserslautern, major in Intelligent Systems and Visual
     <p float="left">
       <a href="https://www.linkedin.com/in/nishitharamesh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://www.instagram.com/nishitharamesh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="https://www.facebook.com/ashutoshd007/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/NishithaRamesh?tab=repositories" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     </p>
 
 
