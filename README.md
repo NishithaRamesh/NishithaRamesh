@@ -1,6 +1,4 @@
-<h4> Hi there </h4> 👋
-
-Here are some ideas to get you started:
+<h4> Hi there 👋 </h4>
 
 - 🔭 I’m currently working on Machine Learning, Business Intelligence and Robotic Process Automation.
 - 🌱 I’m currently learning Deep Learning.
@@ -8,7 +6,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: 
 
-**<h4>Technical Skills</h4>**
+**<h3>Technical Skills</h3>**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
