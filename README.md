@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NishithaRamesh&show_icons=true)
