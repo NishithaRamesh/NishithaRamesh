@@ -3,7 +3,7 @@ Masters Student at RPTU Kaiserslautern, major in Intelligent Systems and Visual 
 
 - 🔭 I’m currently working on Machine Learning, Business Intelligence and Robotic Process Automation.
 - 🌱 I’m currently learning Deep Learning.
-- 🤔 I’m looking for help with information about open source RPA softwares. 
+- 🤔 I’m looking for help with courses related to Machine Learning and Artificial Intelligence. 
 - 😄 Pronouns: She/Her
 - :email: nishitharamesh.nr@gmail.com
 
