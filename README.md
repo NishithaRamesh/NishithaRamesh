@@ -4,7 +4,7 @@ Masters Student at RPTU Kaiserslautern, major in Intelligent Systems and Visual 
 - 🔭 I’m currently working on Machine Learning, Business Intelligence and Robotic Process Automation.
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 I’m looking for help with courses related to Machine Learning and Artificial Intelligence. 
-- :email: nishitharamesh.nr@gmail.com
+- :email: rameshnishitha96@gmail.com
 
 **<h2> Contact me :iphone:</h2>**
     <p float="left">
